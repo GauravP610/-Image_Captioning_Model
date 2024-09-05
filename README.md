@@ -1,1 +1,1 @@
-# -Image_Captioning_Model
+# Image_Captioning_Model
